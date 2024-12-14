@@ -1,10 +1,13 @@
 198.168.101.245,31460,CA,Cooptel Coop de Telecommunication
-172.93.185.6,26661,DE,Nexeon Technologies
 194.24.161.146,4090,FR,Layer7 Networks Datacenter
 58.183.40.84,33674,JP,Energia Communications Inc
 219.111.17.202,443,JP,Internet Initiative Japan Inc
 93.185.163.186,4007,NL,DutchIS
 91.235.21.209,28657,PL,AirCity Krzysztof Janukowicz
+185.126.80.215,25565,SG,Akile Ltd
+45.129.228.31,8443,SG,Catixs Ltd
 194.36.179.17,2053,SG,First Server Limited
+194.127.193.124,24467,SG,Leaseweb Singapore Ltd
 194.9.62.132,34646,SG,SpeedyPage Ltd
+43.245.198.240,587,SG,Techavenue International Ltd
 43.134.99.162,51686,SG,Tencent Cloud Computing
