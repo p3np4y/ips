@@ -1,12 +1,23 @@
+149.129.250.187,443,ID,Alibaba (US) Technology Co Ltd
+172.232.231.24,587,ID,Akamai Technologies Inc
+172.232.239.134,587,ID,Akamai Technologies Inc
+172.232.239.147,587,ID,Akamai Technologies Inc
 172.232.239.151,587,ID,Akamai Technologies Inc
+172.232.239.175,587,ID,Akamai Technologies Inc
+172.232.239.249,587,ID,Akamai Technologies Inc
 43.218.77.16,443,ID,Amazon.com Inc
 43.218.77.16,1443,ID,Amazon.com Inc
-103.186.1.209,2053,ID,Cloud Hosting Indonesia
-103.133.223.50,2096,ID,Cloud Teknologi Nusantara
-103.133.223.52,2096,ID,Cloud Teknologi Nusantara
-35.219.15.90,443,ID,Google LLC
-206.237.98.76,587,ID,Herza Digital Indonesia
-103.168.146.169,20132,ID,Herza Digital Indonesia
-103.6.207.108,8080,ID,Pusat Media Indonesia
-203.194.112.119,8443,ID,Rumahweb Indonesia
-43.133.145.156,53136,ID,Tencent Cloud Computing
+108.136.167.35,11443,ID,Amazon.com Inc
+203.194.112.119,2053,ID,CV Rumahweb Indonesia
+203.194.112.119,8443,ID,CV Rumahweb Indonesia
+35.219.15.90,443,ID,Google Asia Pacific Pte Ltd
+35.219.50.99,443,ID,Google Asia Pacific Pte Ltd
+103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
+103.133.223.50,2096,ID,PT Cloud Teknologi Nusantara
+103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
+103.133.223.52,2096,ID,PT Cloud Teknologi Nusantara
+103.168.146.169,20132,ID,PT Herza Digital Indonesia
+206.237.98.76,587,ID,PT Herza Digital Indonesia
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+43.133.145.156,53136,ID,Tencent Building Kejizhongyi Avenue
