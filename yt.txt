@@ -4,10 +4,3 @@
 219.111.17.202,443,JP,Internet Initiative Japan Inc
 93.185.163.186,4007,NL,DutchIS
 91.235.21.209,28657,PL,AirCity Krzysztof Janukowicz
-185.126.80.215,25565,SG,Akile Ltd
-194.36.179.17,2053,SG,First Server Limited
-194.127.193.124,24467,SG,Leaseweb Singapore Ltd
-194.9.62.132,34646,SG,SpeedyPage Ltd
-83.142.30.129,2096,SG,Streamline Servers
-43.245.198.240,587,SG,Techavenue International Ltd
-43.134.99.162,51686,SG,Tencent Cloud Computing
