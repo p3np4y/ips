@@ -1,3 +1,6 @@
+118.27.12.40,38443,JP,GMO Internet Group
+212.52.0.61,1846,JP,HostHatch
+23.106.130.200,80,JP,IT7 Networks Inc
 185.126.80.215,25565,SG,Akile Ltd
 194.127.193.124,24467,SG,Leaseweb Singapore Ltd
 194.9.62.132,34646,SG,SpeedyPage Ltd
