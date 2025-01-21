@@ -6,3 +6,9 @@
 194.9.62.132,34646,SG,SpeedyPage Ltd
 83.142.30.129,2096,SG,Streamline Servers
 43.245.198.240,587,SG,Techavenue International Ltd
+185.40.7.224,443,FI,[PING] First Server Limited Warp
+158.178.193.78,82,FR,[PING] Oracle Corporation Warp
+178.128.170.140,2083,GB,[PING] Digitalocean LLC Warp
+36.50.90.241,47790,HK,[PING] Iot Innovation Warp
+152.70.85.165,19089,JP,[PING] Oracle Corporation Warp
+89.110.68.127,443,NL,[PING] Servers Tech FZCO Warp
