@@ -1,5 +1,6 @@
 8.219.58.164,57373,ID,Alibaba (US) Technology Co Ltd
 149.129.250.187,443,ID,Alibaba (US) Technology Co Ltd
+8.215.196.18,587,ID,Alibaba (US) Technology Co Ltd
 172.232.231.24,587,ID,Akamai Technologies Inc
 172.232.239.134,587,ID,Akamai Technologies Inc
 172.232.239.147,587,ID,Akamai Technologies Inc
@@ -22,98 +23,4 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 43.133.145.156,53136,ID,Tencent Building Kejizhongyi Avenue
-89.251.9.4,15466,CA,Bitcommand LLC Warp
-173.44.139.49,443,DE,Eonix Corporation Warp IPV6
-194.164.201.183,38033,DE,IONOS SE  Warp
-194.164.201.183,16173,DE,IONOS SE Warp
-91.107.244.67,443,DE,Hetzner Online GmbH Warp IPV6
-185.233.82.55,443,FI,First Server Limited Warp IPV6
-185.40.7.224,443,FI,First Server Limited Warp IPV6
-194.53.54.30,443,FI,I Servers Limited Warp IPV6
-65.109.183.17,8443,FI,Hetzner Online GmbH Warp IPV6
-158.178.193.78,82,FR,Oracle Corporation Warp
-51.178.185.141,8001,FR,OVH SAS Warp IPV6
-51.178.185.141,8002,FR,OVH SAS Warp IPV6
-57.128.171.76,443,GB,OVH SAS Warp IPV6
-178.128.170.140,2083,GB,Digitalocean LLC Warp IPV6
-185.127.17.163,1298,GB,Kamatera INC Warp IPV6
-178.128.170.140,2087,GB,Digitalocean LLC Warp IPV6
-185.127.17.214,1298,GB,Kamatera INC Warp IPV6
-185.127.17.214,4903,GB,Kamatera INC Warp IPV6
-185.127.17.163,4903,GB,Kamatera INC Warp IPV6
-36.50.90.241,47790,HK,Iot Innovation Warp
-36.50.90.241,35951,HK,Iot Innovation Warp
-129.154.46.115,443,IN,Oracle Corporation Warp
-65.1.147.200,35979,IN,Amazon.com Inc Warp
-138.2.12.103,14458,JP,Oracle Corporation Warp IPV6
-138.2.23.218,47598,JP,Oracle Corporation Warp IPV6
-140.83.35.254,48170,JP,Oracle Corporation Warp IPV6
-138.2.12.103,14453,JP,Oracle Corporation Warp IPV6
-152.70.100.102,58312,JP,Oracle Corporation Warp
-152.70.85.165,19089,JP,Oracle Corporation Warp
-168.138.201.217,59217,JP,Oracle Corporation Warp
-129.154.207.203,443,KR,Oracle Corporation Warp+ IPV6
-129.154.63.46,54077,KR,Oracle Corporation Warp
-130.162.144.191,443,KR,Oracle Corporation Warp IPV6
-146.56.140.79,20309,KR,Oracle Corporation Warp
-146.56.140.79,22561,KR,Oracle Corporation Warp IPV6
-146.56.140.79,44699,KR,Oracle Corporation Warp IPV6
-193.123.247.125,50576,KR,Oracle Corporation Warp IPV6
-45.80.208.126,8081,KZ,G core Labs Warp IPV6
-188.166.77.155,22857,NL,Digitalocean LLC Warp IPV6
-188.166.77.155,40002,NL,Digitalocean LLC Warp IPV6
-193.93.153.82,443,NL,Ultahost Inc Warp IPV6
-193.93.153.82,8443,NL,Ultahost Inc Warp IPV6
-89.110.68.127,443,NL,Servers Tech FZCO Warp IPV6
-95.181.230.11,8443,RU,Eurobyte LLC Warp
-95.181.230.11,2096,RU,Eurobyte LLC Warp
-188.93.140.125,443,SE,Hosthatch LLC Warp IPV6
-138.2.74.219,28616,SG,Oracle Corporation Warp IPV6
-158.178.238.239,443,SG,Oracle Corporation Warp
-158.178.240.232,10258,SG,Oracle Corporation Warp
-158.178.240.232,23559,SG,Oracle Corporation Warp
-104.168.102.163,443,US,HostPapa Warp IPV6
-104.168.43.27,15658,US,HostPapa Warp
-104.168.43.27,17635,US,HostPapa Warp IPV6
-104.168.43.27,37190,US,HostPapa Warp
-104.168.43.27,54063,US,HostPapa Warp IPV6
-107.172.190.175,443,US,HostPapa Warp IPV6
-107.172.6.51,443,US,HostPapa Warp
-107.173.87.103,443,US,HostPapa Warp
-107.173.157.128,33895,US,HostPapa Warp IPV6
-107.174.247.217,13350,US,HostPapa Warp IPV6
-107.174.79.149,443,US,HostPapa Warp IPV6
-129.146.110.110,18499,US,HostPapa Warp
-141.11.92.161,7555,US,HostPapa Warp IPV6
-142.171.140.152,443,US,Multacom Corporation Warp IPV6
-142.171.16.28,39518,US,Multacom Corporation Warp IPV6
-142.171.176.122,50653,US,Multacom Corporation Warp IPV6
-142.171.233.183,443,US,Multacom Corporation Warp
-142.171.234.164,35289,US,Multacom Corporation Warp IPV6
-144.34.179.147,40304,US,It Networks INC Warp IPV6
-148.135.95.213,58452,US,Multacom Corporation Warp
-150.230.42.80,443,US,Oracle Corporation Warp
-152.67.230.69,59674,US,Oracle Corporation Warp IPV6
-152.70.123.225,8443,US,Oracle Corporation Warp IPV6
-154.9.241.153,38808,US,Netlab Global Warp IPV6
-154.9.241.153,28051,US,Netlab Global Warp IPV6
-154.9.241.153,37160,US,Netlab Global Warp IPV6
-172.245.34.242,54321,US,HostPapa Warp IPV6
-192.3.208.125,59184,US,HostPapa Warp
-198.12.121.169,24863,US,HostPapa Warp+ IPV6
-23.94.59.154,13560,US,HostPapa Warp IPV6
-45.154.3.156,19443,US,CGI Global Limited Warp IPV6
-45.154.3.156,8000,US,CGI Global Limited Warp IPV6
-45.154.3.156,23443,US,CGI Global Limited Warp
-5.78.55.16,13365,US,Hetzner Online GmbH Warp IPV6
-52.4.8.214,443,US,Amazon.com Inc IPV6
-64.64.253.120,8443,US,It Networks INC Warp IPV6
-67.230.178.10,9080,US,It Networks INC Warp IPV6
-72.18.80.235,443,US,Multacom Corporation Warp IPV6
-74.48.179.37,32380,US,Multacom Corporation Warp
-74.48.179.37,10725,US,Multacom Corporation Warp
-74.48.179.37,36460,US,Multacom Corporation Warp
-74.48.179.37,58184,US,Multacom Corporation Warp
-74.48.221.141,26255,US,Multacom Corporation Warp IPV6
-74.48.179.37,36358,US,Multacom Corporation Warp
-142.171.166.116,8443,US,Multacom Corporation Warp
+43.133.149.163,52698,ID,Tencent Building Kejizhongyi Avenue
