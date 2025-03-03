@@ -1,7 +1,9 @@
 8.219.58.164,57373,ID,Alibaba (US) Technology Co Ltd
 149.129.250.187,443,ID,Alibaba (US) Technology Co Ltd
+8.215.19.67,587,ID,Alibaba (US) Technology Co Ltd
 8.215.196.18,587,ID,Alibaba (US) Technology Co Ltd
 172.232.231.24,587,ID,Akamai Technologies Inc
+172.232.237.31,587,ID,Akamai Technologies Inc
 172.232.237.112,2053,ID,Akamai Technologies Inc
 172.232.239.134,587,ID,Akamai Technologies Inc
 172.232.239.147,587,ID,Akamai Technologies Inc
@@ -9,6 +11,7 @@
 172.232.239.175,587,ID,Akamai Technologies Inc
 172.232.239.249,587,ID,Akamai Technologies Inc
 172.235.251.7,587,ID,Akamai Technologies Inc
+172.235.251.223,443,ID,Akamai Technologies Inc
 172.235.251.223,587,ID,Akamai Technologies Inc
 43.218.77.16,443,ID,Amazon.com Inc
 43.218.77.16,1443,ID,Amazon.com Inc
@@ -23,6 +26,7 @@
 103.133.223.52,2096,ID,PT Cloud Teknologi Nusantara
 103.168.146.169,20132,ID,PT Herza Digital Indonesia
 206.237.98.76,587,ID,PT Herza Digital Indonesia
+103.63.101.10,443,ID,PT Newton Cipta Informatika
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 43.133.145.156,53136,ID,Tencent Building Kejizhongyi Avenue
