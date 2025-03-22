@@ -18,6 +18,7 @@
 108.136.167.35,11443,ID,Amazon.com Inc
 203.194.112.119,2053,ID,CV Rumahweb Indonesia
 203.194.112.119,8443,ID,CV Rumahweb Indonesia
+34.101.247.19:53681,ID,Google Asia Pacific Pte Ltd
 35.219.15.90,443,ID,Google Asia Pacific Pte Ltd
 35.219.50.99,443,ID,Google Asia Pacific Pte Ltd
 103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
